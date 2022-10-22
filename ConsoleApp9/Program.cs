@@ -10,6 +10,7 @@ namespace ConsoleApp9
     {
         static void Main(string[] args)
         {
+            // просто коммент
         }
     }
 }
